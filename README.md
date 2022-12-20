@@ -5,7 +5,7 @@ This project focuses on implementation of search based path planning algorithm w
 </p>
 
 ## Project Report
-[Orish Jindal, Sanchit Gupta, 'Motion Planning of Mbot Mega Robot on Qualcomm RB5 Platform', CSE 276A, Course Project, UCSD](https://github.com/sanchit3103/Motion-Planning_Mbot-Mega-with-RB5/blob/main/Report.pdf)
+[Orish Jindal, Sanchit Gupta, 'Motion Planning of Mbot Mega Robot on Qualcomm RB5 Platform', CSE 276A, Course Project, UCSD](https://github.com/ojindal/Planning_and_Control-Mbot_Mega_with_RB5/blob/main/Orish%20Jindal%20-%20HW4%20Report.pdf)
 
 ## Robot in action: Shortest Path 
 <p align="center">
